@@ -1,0 +1,23 @@
+2022-11-02 11:42:50,889 - BasePage.py:[52] - INFO - Selecting from an element:newCar_XPATH
+2022-11-02 11:42:52022-11-02 11:42:58,816 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:43:05,521 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:43:11,814 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:43:27,330 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:43:41,978 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:43:55,729 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+2022-11-02 11:44:29,802 - test_carwale.py:[61] - INFO - ******Inside print Cars Names and Prices Test*******
+t:newCar_XPATH
+2022-11-02 11:43:12,222 - BasePage.py:[17] - INFO - Clicking on element:findNewCars_XPATH
+2022-11-02 11:43:12,572 - BasePage.py:[17] - INFO - Clicking on element:toyota_XPATH
+2022-11-02 11:43:27,736 - BasePage.py:[52] - INFO - Selecting from an element:newCar_XPATH
+2022-11-02 11:43:28,240 - BasePage.py:[17] - INFO - Clicking on element:findNewCars_XPATH
+2022-11-02 11:43:28,761 - BasePage.py:[17] - INFO - Clicking on element:BMW_XPATH
+2022-11-02 11:43:42,392 - BasePage.py:[52] - INFO - Selecting from an element:newCar_XPATH
+2022-11-02 11:43:42,898 - BasePage.py:[17] - INFO - Clicking on element:findNewCars_XPATH
+2022-11-02 11:43:43,380 - BasePage.py:[17] - INFO - Clicking on element:hyundai_XPATH
+2022-11-02 11:43:56,126 - BasePage.py:[52] - INFO - Selecting from an element:newCar_XPATH
+2022-11-02 11:43:56,746 - BasePage.py:[17] - INFO - Clicking on element:findNewCars_XPATH
+2022-11-02 11:43:57,320 - BasePage.py:[17] - INFO - Clicking on element:honda_XPATH
+2022-11-02 11:44:30,154 - BasePage.py:[52] - INFO - Selecting from an element:newCar_XPATH
+2022-11-02 11:44:30,654 - BasePage.py:[17] - INFO - Clicking on element:findNewCars_XPATH
+2022-11-02 11:44:31,193 - BasePage.py:[17] - INFO - Clicking on element:toyota_XPATH

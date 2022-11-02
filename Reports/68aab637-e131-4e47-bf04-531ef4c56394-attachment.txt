@@ -1,0 +1,4 @@
+INFO     Testcases.test_carwale:test_carwale.py:72 ******Inside print Cars Names and Prices Test*******
+INFO     Pages.BasePage:BasePage.py:52 Selecting from an element:newCar_XPATH
+INFO     Pages.BasePage:BasePage.py:17 Clicking on element:findNewCars_XPATH
+INFO     Pages.BasePage:BasePage.py:17 Clicking on element:toyota_XPATH

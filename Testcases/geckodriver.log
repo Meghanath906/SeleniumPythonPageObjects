@@ -1,0 +1,205 @@
+1667367963788	geckodriver	INFO	Listening on 127.0.0.1:55718
+1667367966817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileoGAWmL"
+1667367967541	Marionette	INFO	Marionette enabled
+1667367967550	Marionette	INFO	Listening on port 55730
+Read port: 55730
+WebDriver BiDi listening on ws://127.0.0.1:55719
+1667367967742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileoGAWmL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55719/devtools/browser/f4606d5c-b9c3-4797-9acc-a605903620e0
+1667367996029	Marionette	INFO	Stopped listening on port 55730
+[Parent 14380, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667368003706	geckodriver	INFO	Listening on 127.0.0.1:56208
+1667368006738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofile0aWGsc"
+1667368007267	Marionette	INFO	Marionette enabled
+1667368007273	Marionette	INFO	Listening on port 56218
+Read port: 56218
+WebDriver BiDi listening on ws://127.0.0.1:56209
+1667368007466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofile0aWGsc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56209/devtools/browser/d4ede85a-9ef3-4a81-81bc-191d465b5795
+1667368035025	Marionette	INFO	Stopped listening on port 56218
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667368042967	geckodriver	INFO	Listening on 127.0.0.1:56642
+1667368045999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileT3Scyj"
+1667368046508	Marionette	INFO	Marionette enabled
+1667368046515	Marionette	INFO	Listening on port 56652
+Read port: 56652
+WebDriver BiDi listening on ws://127.0.0.1:56643
+1667368046753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileT3Scyj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56643/devtools/browser/7dcd5bb3-6713-424e-8207-9c36834b0753
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667368071864	Marionette	INFO	Stopped listening on port 56652
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667368079502	geckodriver	INFO	Listening on 127.0.0.1:57000
+1667368082522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileFtb7tO"
+1667368083022	Marionette	INFO	Marionette enabled
+1667368083031	Marionette	INFO	Listening on port 57026
+Read port: 57026
+WebDriver BiDi listening on ws://127.0.0.1:57001
+1667368083221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileFtb7tO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57001/devtools/browser/6ed13a66-d992-410b-b7d1-853b14d7e364
+1667368089215	Marionette	INFO	Stopped listening on port 57026
+1667368583728	geckodriver	INFO	Listening on 127.0.0.1:55362
+1667368586794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileq1ZkJF"
+1667368587351	Marionette	INFO	Marionette enabled
+1667368587359	Marionette	INFO	Listening on port 55372
+Read port: 55372
+WebDriver BiDi listening on ws://127.0.0.1:55363
+1667368587514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileq1ZkJF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55363/devtools/browser/30400014-e724-4a45-9139-c7cd512a9214
+1667368595111	Marionette	INFO	Stopped listening on port 55372
+[Parent 22796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1667368600974	geckodriver	INFO	Listening on 127.0.0.1:55511
+1667368604019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileMlV6hM"
+1667368604373	Marionette	INFO	Marionette enabled
+1667368604379	Marionette	INFO	Listening on port 55521
+Read port: 55521
+WebDriver BiDi listening on ws://127.0.0.1:55512
+1667368604517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileMlV6hM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55512/devtools/browser/b57e8ab3-e7a5-4018-9b71-087f8fc7fbb4
+1667368609166	Marionette	INFO	Stopped listening on port 55521
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667368614870	geckodriver	INFO	Listening on 127.0.0.1:55631
+1667368617924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileg8ihqt"
+1667368618277	Marionette	INFO	Marionette enabled
+1667368618283	Marionette	INFO	Listening on port 55641
+Read port: 55641
+WebDriver BiDi listening on ws://127.0.0.1:55632
+1667368618424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileg8ihqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55632/devtools/browser/8885e1c0-1ba3-499d-a18f-9e2c78456cbe
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 4908 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667368642938	Marionette	INFO	Stopped listening on port 55641
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667368648815	geckodriver	INFO	Listening on 127.0.0.1:56075
+1667368651863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileIkwHXL"
+1667368652208	Marionette	INFO	Marionette enabled
+1667368652212	Marionette	INFO	Listening on port 56085
+Read port: 56085
+WebDriver BiDi listening on ws://127.0.0.1:56076
+1667368652373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileIkwHXL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56076/devtools/browser/8aee221b-cdf7-4b05-97d2-a328f0347632
+1667368657568	Marionette	INFO	Stopped listening on port 56085
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 58: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667369600469	geckodriver	INFO	Listening on 127.0.0.1:61813
+1667369603537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileAbcyey"
+1667369604115	Marionette	INFO	Marionette enabled
+1667369604121	Marionette	INFO	Listening on port 61823
+Read port: 61823
+WebDriver BiDi listening on ws://127.0.0.1:61814
+1667369604275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileAbcyey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61814/devtools/browser/33d6696c-b6ae-43bf-90f7-9f8e170325e6
+1667369610017	Marionette	INFO	Stopped listening on port 61823
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667369615629	geckodriver	INFO	Listening on 127.0.0.1:61965
+1667369618682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileZfME8u"
+1667369619047	Marionette	INFO	Marionette enabled
+1667369619052	Marionette	INFO	Listening on port 61976
+Read port: 61976
+WebDriver BiDi listening on ws://127.0.0.1:61966
+1667369619200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileZfME8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61966/devtools/browser/9a60b621-6835-4d49-9248-db545c48d8ea
+1667369623696	Marionette	INFO	Stopped listening on port 61976
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667369629188	geckodriver	INFO	Listening on 127.0.0.1:62080
+1667369632249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileCgIJRJ"
+1667369632616	Marionette	INFO	Marionette enabled
+1667369632623	Marionette	INFO	Listening on port 62090
+Read port: 62090
+WebDriver BiDi listening on ws://127.0.0.1:62081
+1667369632776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileCgIJRJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62081/devtools/browser/3c733b1c-3684-4f00-bf85-1786032471c3
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667369657741	Marionette	INFO	Stopped listening on port 62090
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667369663322	geckodriver	INFO	Listening on 127.0.0.1:62491
+1667369666365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileYXcbqW"
+1667369666727	Marionette	INFO	Marionette enabled
+1667369666731	Marionette	INFO	Listening on port 62502
+Read port: 62502
+WebDriver BiDi listening on ws://127.0.0.1:62492
+1667369666871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileYXcbqW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62492/devtools/browser/6e19f010-eb6c-4e9d-b8b6-bda3587315d2
+1667369671857	Marionette	INFO	Stopped listening on port 62502
